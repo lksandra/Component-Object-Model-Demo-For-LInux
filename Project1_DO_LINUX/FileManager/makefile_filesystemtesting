@@ -1,0 +1,4 @@
+#tesing for FileSystem.o creation
+
+FileSystem.o: FileSystem.cpp FileSystem.h
+	g++ -std=c++11 -c -fpic FileSystem.cpp

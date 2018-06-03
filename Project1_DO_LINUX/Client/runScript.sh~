@@ -1,0 +1,2 @@
+make
+#./client.exe "../FileManager" "*.h" "vector"
